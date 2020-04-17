@@ -1,0 +1,162 @@
+body
+    {
+        background-color: cadetblue;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        margin-left: 15%;
+        margin-right: 15%;  
+        text-align: justify;
+    }
+
+#cabecalho
+    {
+        color: #19196b;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 30px;
+    }
+
+#noticia  
+    {
+        color: #19196b;
+        margin-top: 60px;
+    }
+
+  
+#texto
+    {
+        color: #19196b;
+    }
+
+#texto2
+    {
+        color: #19196b;
+    }
+
+a
+    { 
+        color: white;
+        text-decoration: unset;
+    }
+
+
+p   
+    {
+        color: #19196b;
+    }
+#navbar
+    { 
+        display: flex;
+        justify-content: space-evenly;
+        margin-bottom: 30px;
+    }
+
+#img1
+    { 
+        width: 100%;
+    }
+
+.imgtexto1
+    {
+        display: flex;
+        justify-content: space-between;
+    }
+
+           
+            .imagemtexto1
+                {
+                    width: 480px;
+                }
+
+.imgtexto2
+    {
+        
+        margin-right: 40%;
+    }
+
+    .imagemministro
+    {
+        width: 100%;
+    }
+
+
+#nota
+    {
+        color: #19196b;
+        font-style: italic;
+        margin-bottom: 50px;
+    }
+
+
+#curriculo
+    {
+        display: flex;
+        justify-content: space-between;
+    }
+
+
+    .imgcurriculo
+        {
+            width: 450px;
+            margin-right: 20px;
+        }
+
+
+    .definicao
+       {
+            color: #19196b;
+            display: flex;
+            justify-content: center;
+       }
+
+
+        .paragrafo1
+        {
+            color: #19196b;
+            margin-bottom: 100px;
+        }
+
+#coneccao
+    {
+        text-align: center;
+        text-decoration: unset;      
+    }
+    
+    
+    button
+        {
+            background-color: blue;
+            border-color: blue;
+            border-radius: 10px;
+            box-shadow: black 2px 2px 5px;
+        }
+
+#formulario
+    {
+        display: flex;
+        justify-content: center;
+    }
+
+footer
+    {
+        color: #19196b;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+#email
+    {
+        text-align: right;
+    }
+
+#rodape
+    {
+        margin-top: 50px;
+    }
+
+#materias
+    {
+        color: #19196b;
+        text-align: center;
+        margin-top: 30px;
+    }
+  
